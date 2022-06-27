@@ -15,9 +15,6 @@
 [![steam](./img/steam-dark.png)](steamcommunity.com/id/Smiithyy#gh-light-mode-only)
 [![steam](./img/steam-light.png)](steamcommunity.com/id/Smiithyy#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-dark.png)](https://www.instagram.com/evansmith.drums#gh-light-mode-only)
-[![instagram](./img/instagram-light.png)](https://www.instagram.com/evansmith.drums#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![twitch](./img/twitch-dark.png)](https://www.twitch.tv/smiithyy__#gh-light-mode-only)
 [![twitch](./img/twitch-light.png)](https://www.twitch.tv/smiithyy__#gh-dark-mode-only)
 &nbsp;&nbsp;
