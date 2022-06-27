@@ -11,6 +11,8 @@
 
 [![linkedin](./img/linkedin-dark.png)](https://www.linkedin.com/in/smiithyy)
 &nbsp;&nbsp;
+[![instagram](./img/instagram-dark.png)](https://www.instagram.com/evansmith.drums)
+&nbsp;&nbsp;
 [![steam](./img/steam-dark.png)](steamcommunity.com/id/Smiithyy)
 &nbsp;&nbsp;
 [![twitch](./img/twitch-dark.png)](https://www.twitch.tv/smiithyy__)
