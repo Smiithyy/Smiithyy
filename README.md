@@ -9,14 +9,11 @@
 
 ### Connect with me:
 
-[![linkedin](./img/linkedin-dark.png)](https://www.linkedin.com/in/smiithyy#gh-light-mode-only)
-[![linkedin](./img/linkedin-light.png)](https://www.linkedin.com/in/smiithyy#gh-dark-mode-only)
+[![linkedin](./img/linkedin-dark.png)](https://www.linkedin.com/in/smiithyy)
 &nbsp;&nbsp;
-[![steam](./img/steam-dark.png)](steamcommunity.com/id/Smiithyy#gh-light-mode-only)
-[![steam](./img/steam-light.png)](steamcommunity.com/id/Smiithyy#gh-dark-mode-only)
+[![steam](./img/steam-dark.png)](steamcommunity.com/id/Smiithyy)
 &nbsp;&nbsp;
-[![twitch](./img/twitch-dark.png)](https://www.twitch.tv/smiithyy__#gh-light-mode-only)
-[![twitch](./img/twitch-light.png)](https://www.twitch.tv/smiithyy__#gh-dark-mode-only)
+[![twitch](./img/twitch-dark.png)](https://www.twitch.tv/smiithyy__)
 &nbsp;&nbsp;
 
 
