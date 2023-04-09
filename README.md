@@ -1,4 +1,4 @@
-# Hi there, I'm Evan - aka [Smithy][instagram] 👋 
+# Hi there, I'm Evan - aka [Smiithyy][instagram] 👋 
 
 ## I'm a Developer, Drummer and Gamer!
 
