@@ -3,9 +3,9 @@
 ## I'm a Developer, Drummer and Gamer!
 
 - 🔭 I am currently working on my portfolio.
-- 🌱 I’m currently honing my skills in C++ and Unreal Engine
-- 🥅 2022 Goals: Become a full time game developer
-- ⚡ Fun fact: I play drums for a metal band called [Avirtue][avirtue]
+- 🌱 I’m currently honing my skills C# and C++.
+- 🥅 2024 Goals: Have a portfolio I can be proud to show off.
+- ⚡ Fun fact: In my spare time I enjoy playing drums for metal bands.
 
 ### Connect with me:
 
