@@ -4,7 +4,7 @@
 
 - 🔭 I have recently began working on VFX using Niagara in Unreal Engine 5.
 - 🌱 I’m currently honing my skills C# and C++.
-- 🥅 2024 Goals: Be a full time developer.
+- 🥅 2025 Goals: Be a full time developer.
 - ⚡ Fun fact: In my spare time I enjoy playing drums for metal bands.
 
 ### Connect with me:
